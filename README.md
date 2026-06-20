@@ -4,4 +4,5 @@
 <img width="1469" height="698" alt="Captura de pantalla 2026-06-20 091800" src="https://github.com/user-attachments/assets/ef23b5cc-98c6-48c6-a2e4-5414de9e07c0" />
 
 
-<img width="1375" height="725" alt="image" src="https://github.com/user-attachments/assets/ba35bfa0-d79d-4184-8d88-ab61f5f2c476" />
+<img width="1375" height="725" alt="image" src="https://github.com/user-attachments/assets/bda19151-3605-472d-94b7-8b9ecd68b992" />
+
